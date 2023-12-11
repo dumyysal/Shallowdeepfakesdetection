@@ -1,4 +1,4 @@
-# Shallow- and Deep-fake Image Manipulation detection By ByeTorch ( CS ENIT ) for The Deepfake Forensics Challenge – IEEE CS Tunisia & IEEE YP Tunisia AG 
+# Shallow- and Deep-fake Image Manipulation detection By ByeTorch for The Deepfake Forensics Challenge – IEEE CS Tunisia & IEEE YP Tunisia AG 
 
    ![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/7aecf8f6-d3c5-4d6a-95b4-f6b95ff89494)
 
@@ -10,7 +10,7 @@ Our project was based on this research paper  [Shallow- and Deep-fake Image Mani
 
 ### Deepfakes
 
-To facilitate the training and testing of our model, we have curated a comprehensive deepfake dataset. You can download the dataset by accessing the following link:[here](https://www.dropbox.com/s/o5410tl5v4vxsth/ICNC2023-Deepfakes.tar.xz?dl=0).
+To facilitate the training and testing of the model , you can download the dataset by accessing the following link:[here](https://www.dropbox.com/s/o5410tl5v4vxsth/ICNC2023-Deepfakes.tar.xz?dl=0).
 
 ### Shallowfakes
 
@@ -31,7 +31,7 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 
 ### Outputs Results of The pretrained Models below On New Data
 ![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/3b905862-c955-4e32-a755-3e3fd26e6e5f)
-  - a series of predicted masks from experiments 7 ( pretrained model.pth) to 9 is presented .It explains the success of the model's performance when confronted with new data .
+  - a series of predicted masks from experiments 7 ( pretrained model7.pth) to 9 (pretrained model9.pth) on deepfake is presented .It explains the success of the model's performance when confronted with new deep fake type data .
 
 
 
