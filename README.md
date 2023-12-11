@@ -23,6 +23,27 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 - [NIST16](https://www.nist.gov/itl/iad/mig/open-media-forensics-challenge)
             Ensure you have an account here to proceed with downloading the dataset.
 
+
+
+![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/3b905862-c955-4e32-a755-3e3fd26e6e5f)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
 ### Train/Val/Test Subsets
 
 The way (file paths) of how we split the datasets into train/val/test subsets in find at the paths folder
