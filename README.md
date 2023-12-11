@@ -26,7 +26,7 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
             Ensure you have an account here to proceed with downloading the dataset.
 
 
-### Outputs Results of The Model Mvssnet for experiments 1/2/3;
+### Outputs Results of The Model Mvssnet for experiments 1/2/3
       - Here we wanted to provide examples of the contents that may be found while testing the mvssnet model, including masks and other relevant files.Check The out folder
 
 ### Outputs Results of The pretrained Models below On New Data
