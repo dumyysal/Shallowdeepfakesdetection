@@ -1,5 +1,7 @@
 # Shallow- and Deep-fake Image Manipulation detection By ByeTorch ( CS ENIT ) for The Deepfake Forensics Challenge – IEEE CS Tunisia & IEEE YP Tunisia AG 
 
+   ![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/7aecf8f6-d3c5-4d6a-95b4-f6b95ff89494)
+
 Our project was based on this research paper  [Shallow- and Deep-fake Image Manipulation Localization Using Deep Learning]() 
 
 
