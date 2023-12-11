@@ -19,7 +19,7 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 - [CASIAv2](https://github.com/namtpham/casia2groundtruth)
      Revised dataset: https://bit.ly/2QazgkG
 - [CASIAv1](https://github.com/namtpham/casia1groundtruth)
-                   (https://bit.ly/3nXyYJw)
+                   or here (https://bit.ly/3nXyYJw)
 - [Columbia](https://www.ee.columbia.edu/ln/dvmm/downloads/authsplcuncmp/)
 - [COVERAGE](https://github.com/wenbihan/coverage)
 - [NIST16](https://www.nist.gov/itl/iad/mig/open-media-forensics-challenge)
