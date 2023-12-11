@@ -55,4 +55,4 @@ Trained models for experiments in Table III of our paper can be found in the fol
 python -u evaluate.py --paths_file /pathd/test.txt --load_path /path/to/trained/model.path --model {mvssnet, upernet, ours}
 
 
-### Example
+
