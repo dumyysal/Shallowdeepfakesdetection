@@ -73,7 +73,10 @@ python -u evaluate.py --paths_file /pathd/test.txt --load_path /path/to/trained/
 
 ### Output Results of The pretrained Models below On New Data
 ![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/3b905862-c955-4e32-a755-3e3fd26e6e5f)
-  - a series of predicted masks from experiments 7 ( pretrained model7.pth) to 9 (pretrained model9.pth) on deepfake is presented .It explains the success of the model's performance when confronted with new deep fake type data .
+  - a series of predicted masks from experiments 7 ( pretrained model7.pth) to 9 (pretrained model9.pth) on deepfake is presented .
+  - It explains the success of the model's performance when confronted with new deep fake type data .
+
+    
  ![image](https://github.com/dumyysal/ShallowdeepfakesdetectionEnit/assets/150078373/f7e425a6-c1e8-4b07-a8eb-cfa9807a5d64)
  - The output mask from Experiment 9 closely aligns with the ground truth image . 
 
