@@ -45,7 +45,8 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 
 
 
-  
+## Environement set up
+ - Ensure that the PyTorch extension version is 1.8.0, and that CUDA 12.1.0 is installed when running the model
 
 ### Train/Val/Test Subsets
 
