@@ -30,12 +30,12 @@ For the Shallowfake dataset utilized in our research paper, individual downloads
 
 
 
-## Environement set up
+##  environment set up
  - Ensure that the PyTorch extension version is 1.8.0, and that CUDA 12.1.0 is installed when running the model
 
 ### Train/Val/Test Subsets
 
-The way (file paths) of how we split the datasets into train/val/test subsets in find at the paths folder
+The way (file paths) of how we split the datasets into train/val/test subsets in find at the paths folder . In case you use conda environment use conda_paths.
 
 The format of each line in these files is as the following. For authentic images, `/path/to/mask.png` and `/path/to/egde.png` are set to string `None`. We use digit `0` to represent authentic images, and `1` to represent manipulated images.
 
